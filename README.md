@@ -6,7 +6,7 @@ This tool was strictly developed to demonstrate how straightforward it can be to
  
 ## Preview  
 ![](https://i.imgur.com/kGwdAd9.png)<br>   
-![](https://i.imgur.com/9l4mtac.gif)    
+![](https://i.imgur.com/9l4mtac.gif)     
 
 # Guide on how to use these tool    
  
