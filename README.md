@@ -9,7 +9,7 @@ This tool was strictly developed to demonstrate how straightforward it can be to
 ![](https://i.imgur.com/9l4mtac.gif)     
 
 # Guide on how to use these tool    
- 
+  
 1. Install Python
 
 2. Download the repo as a ZIP  
