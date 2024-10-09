@@ -21,4 +21,4 @@ This tool was strictly developed to demonstrate how straightforward it can be to
 5. Enjoy!   
   
 ## Legal Notice   
-This is illegal and against Discord's Terms of Service. I am not accountable for any of your actions; this was merely a speedrun to demonstrate how report bots work. Please do not misuse this tool.    
+This is illegal and against Discord's Terms of Service. I am not accountable for any of your actions; this was merely a speedrun to demonstrate how report bots work. Please do not misuse this tool.     
